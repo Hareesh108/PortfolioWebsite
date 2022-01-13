@@ -28,7 +28,8 @@
 
 ![](images/1.jpg)
 
-- CODE SNIPPET
+### CODE SNIPPET
+
 ![](images/H1.png)
 
 
