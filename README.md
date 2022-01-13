@@ -38,32 +38,38 @@
 
 ![](images/H3.png)
 
-- QnA MAKER BOT 
+### QnA MAKER BOT 
+
 ![](images/H4.png)
 
-- DEPLOYMENT
+### DEPLOYMENT
+
 ![](images/H5.png)
 
-- RESOURSE GROUP
+### RESOURSE GROUP
+
 ![](images/H6.png)
 
-- STATIC WEB APP
+### STATIC WEB APP
+
 ![](images/H7.png)
 
 
 ![](images/H8.png)
 
-- ACTUAL IMPLEMENTED CHAT BOT
+### ACTUAL IMPLEMENTED CHAT BOT
+
 ![](images/H9.png)
 
 
 ![](images/H10.png)
 
-- GITHUB REPO...
+### GITHUB REPO...
+
 ![](images/H11.png)
 
 
-Thank You :)
+# Thank You :)
 
 - Hareesh Devaba Bhittam
 - hareeshbhittam@gmail.com
