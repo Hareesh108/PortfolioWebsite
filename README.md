@@ -11,7 +11,7 @@
    - Azure QnA Maker
    - Azure Static Web App
 
-## Please watch this project demo and explanation video created by me for further idea and refference of my project :) (Click Below)
+## Please watch this project demo and explanation video created by me for further idea and refference of my project :) (Click Below Thumbnail)
 [![PortfolioWebsite](https://img.youtube.com/vi/ZdXbUXeEeZ8/0.jpg)](https://www.youtube.com/watch?v=ZdXbUXeEeZ8&t=9s)
 
 ## Problem Statement/Opportunity :
