@@ -26,7 +26,7 @@
 -  
 ## Project Completion Certificate :
 
-![](images/Microsoft Future Ready Telent.png)
+https://github.com/Hareesh108/Certificates/blob/main/Internship/Microsoft%20Future%20Ready%20Telent.pdf
 
 ## Below you will find sample images :)
 
