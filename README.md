@@ -26,7 +26,7 @@
 -  
 ## Project Completion Certificate :
 
-![](Microsoft Future Ready Telent.png)
+![](images/Microsoft Future Ready Telent.png)
 
 ## Below you will find sample images :)
 
