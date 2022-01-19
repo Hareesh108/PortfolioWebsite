@@ -24,7 +24,7 @@
 - In this project i will using HTML, CSS, JavaScript, jQuery etc. with a very good UI i will integrate this QnA maker frame over there.
 - I have placed the chat bot at bottom right corner with a anchor point, if i click on bot symbol then box will be appear and if again click on it then it will disappear. 
 -  
-## Project Completion Certificate
+## Project Completion Certificate :
 
 ![](Microsoft Future Ready Telent.png)
 
