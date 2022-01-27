@@ -1,4 +1,4 @@
-# FUTURE READY TALENT VIRTUAL INTERSHIP PROJECT
+# FUTURE READY TALENT VIRTUAL INTERNSHIP PROJECT
 
 ## PROJECT NAME - My Portfolio website hosted using static web app and assist the visitor using QnA maker azure Service.
 
